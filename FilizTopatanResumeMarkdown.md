@@ -1,11 +1,11 @@
- #Filiz Topatan #
+ # Filiz Topatan #
 * Phone number: 206 427 58-93
 * E-mail: filizkurban@gmail.com
 * City: Seattle
 
 # Active Projects #
 ## Founder - Kiddo Local - 05/2017 - Current ##
-### Kiddo Local is a startup with a mission to make parenting easier. Parents use the application to discover and book kid-friendly events and activities on-the-go.###
+### Kiddo Local is a startup with a mission to make parenting easier. Parents use the application to discover and book kid-friendly events and activities on-the-go. ###
 * Architected, designed and implemented the frontend(iOS) and the backend(cloud) using technology stack of Heroku, Parse Server, MongoDB, Fabric, Mixpanel and Swift 3.0. 
 * Completed Y Combinator Startup School Founder Track program as a solo founder.
 * Managed and collaborated with 3 developers and plan deliverables and timelines.
